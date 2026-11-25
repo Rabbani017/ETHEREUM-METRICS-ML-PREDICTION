@@ -1,0 +1,19 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Data caches & large checkpoints
+.cache/
+data/cache/
+*.incomplete
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
